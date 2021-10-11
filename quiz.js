@@ -55,6 +55,7 @@ function pname()
     }
 }
 
+
 function addition()
 {
     numb1 = document.getElementById("num1").value;
@@ -170,4 +171,9 @@ function check()
 
    document.getElementById("output").innerHTML = "";
    document.getElementById("output").style.height = 50;
+   document.getElementById("num1");
+   document.getElementById("num2");
+   num1.value = " ";
+   num2.value = " ";
+
 }
